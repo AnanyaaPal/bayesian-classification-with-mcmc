@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# data files
+.DS_Store
+
+# git version control
+.git
+
 # C extensions
 *.so
 
